@@ -1,0 +1,17 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "my first project in expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arshi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongodb": "^2.1.4",
+    "underscore": "^1.8.3"
+  }
+}
